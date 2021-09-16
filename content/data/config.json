@@ -149,5 +149,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-features"
     },
-    "domain": "https://beige-thyme-15784.netlify.app"
+    "domain": "https://beige-thyme-15784.netlify.app",
+    "favicon": "/images/Group 19@2x.png"
 }
