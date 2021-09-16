@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: We bring you ideas to life
+    title: We bring your ideas to life
     subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
